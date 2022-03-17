@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - Django, Flutter, Machine Learning
-- 🌱 I’m currently learning - Flutter, React
+- 🌱 I’m currently learning - React, Flutter
 - 👯 I’m looking to collaborate on any Business, hobby or Open source ideas 
 - 💬 Ask me about - Python or any coding related issues
 - 📫 How to reach me: swapnilakavishwar@gmail.com
