@@ -6,7 +6,7 @@
 ## My Projects
 
 * [fastapi-scrape-spyder](https://github.com/swap-stack/game_scrape_fastapi)
-* [flutter-android-app](https://github.com/swap-stack/game_price_checker_flutte)
+* [flutter-android-app](https://github.com/swap-stack/game_price_checker_flutter)
 
 ## My website
 * [website](https://swap-stack.github.io/)
