@@ -12,8 +12,8 @@
 * [website](https://swap-stack.github.io/)
 
 ## My Info
-- 🔭 I’m currently working on - Django, Machine Learning, Flutter
-- 🌱 I’m currently learning - Advanced Python, C++
+- 🌱 I’m currently learning - Data Structures and Algorithms, Cloud Services AWS, C++
+- 🔭 I have expertise in - ML/NLP algorithms, Python, Backend developement with Python web frameworks like Django, FastApi, Flutter 
 - 📫 How to reach me: swapnilakavishwar@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am always ready to colab on interesting projects
