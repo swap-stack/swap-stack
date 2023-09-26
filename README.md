@@ -8,6 +8,8 @@
 * [fastapi-scrape-spyder](https://github.com/swap-stack/game_scrape_fastapi)
 * [flutter-android-app](https://github.com/swap-stack/game_price_checker_flutter)
 
+*[Solved Exercises from Data Structures and Algorithms in Python by Michael Goodrich, Tamassia and Goldwasser](https://github.com/swap-stack/DSA-BOOK-PYTHON-EXERCISES) [book link] (https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python%2C+1st+Edition-p-9781118290279)
+
 ## My website (Work in Progress!)
 * [website](https://swap-stack.github.io/)
 
